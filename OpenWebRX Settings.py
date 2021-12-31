@@ -41,7 +41,7 @@
                     "name": "FunCube Dongle to J-Pole Profile 1",
                     "center_freq": 145800000,
                     "rf_gain": 20,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 145800000,
                     "start_mod": "nfm"
                 },
@@ -49,7 +49,7 @@
                     "name": "70cm Ham Band 435 MHz (CubeSatSim)",
                     "center_freq": 434900000,
                     "rf_gain": 20,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 434900000,
                     "start_mod": "nfm"
                 },
@@ -57,7 +57,7 @@
                     "name": "Weather Band",
                     "center_freq": 162350000,
                     "rf_gain": 20,
-                    "samp_rate": 17500000,
+                    "samp_rate": 19500000,
                     "start_freq": 16192000,
                     "start_mod": "nfm"
                 },
@@ -65,7 +65,7 @@
                     "name": "2m Band (ISS)",
                     "center_freq": 145000000,
                     "rf_gain": 20,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 145725000,
                     "start_mod": "nfm"
                 },
@@ -73,7 +73,7 @@
                     "name": "70cm Ham Band 438 MHz (ISS)",
                     "center_freq": 438000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 437800000,
                     "start_mod": "nfm"
                 },
@@ -81,7 +81,7 @@
                     "name": "FM Band",
                     "center_freq": 91000000,
                     "rf_gain": 20,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 90000000,
                     "start_mod": "wfm"
                 },
@@ -89,7 +89,7 @@
                     "name": "10m Band",
                     "center_freq": 28000000,
                     "rf_gain": 20,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 28500000,
                     "start_mod": "usb"
                 },
@@ -97,7 +97,7 @@
                     "name": "6m Band",
                     "center_freq": 51000000,
                     "rf_gain": 20,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 51000000,
                     "start_mod": "usb"
                 },
@@ -105,7 +105,7 @@
                     "name": "90 MHz FM Band",
                     "center_freq": 90000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 110000000,
                     "start_mod": "nfm"
                 },
@@ -113,7 +113,7 @@
                     "name": "92 MHz FM Band",
                     "center_freq": 92000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 92000000,
                     "start_mod": "wfm"
                 },
@@ -121,7 +121,7 @@
                     "name": "94 MHz FM Band",
                     "center_freq": 94000000,
                     "rf_gain": 30,
-                    "samp_rate": 1750000,
+                    "samp_rate": 1950000,
                     "start_freq": 94000000,
                     "start_mod": "wfm"
                 },
@@ -129,7 +129,7 @@
                     "name": "96 MHz FM Band",
                     "center_freq": 96000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 96000000,
                     "start_mod": "wfm"
                 },
@@ -137,7 +137,7 @@
                     "name": "98 MHz FM Band",
                     "center_freq": 98000000,
                     "rf_gain": 30,
-                    "samp_rate": 1750000,
+                    "samp_rate": 1950000,
                     "start_freq": 98000000,
                     "start_mod": "wfm"
                 },
@@ -145,7 +145,7 @@
                     "name": "100 MHz",
                     "center_freq": 100000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 100000000,
                     "start_mod": "nfm"
                 },
@@ -153,7 +153,7 @@
                     "name": "110 MHz",
                     "center_freq": 110000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 110000000,
                     "start_mod": "nfm"
                 },
@@ -161,7 +161,7 @@
                     "name": "112 MHz",
                     "center_freq": 112000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 112000000,
                     "start_mod": "nfm"
                 },
@@ -169,7 +169,7 @@
                     "name": "114 MHz",
                     "center_freq": 114000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 114000000,
                     "start_mod": "nfm"
                 },
@@ -177,7 +177,7 @@
                     "name": "116 MHz",
                     "center_freq": 116000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 116000000,
                     "start_mod": "nfm"
                 },
@@ -185,7 +185,7 @@
                     "name": "118 MHz Air Band",
                     "center_freq": 118000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 118000000,
                     "start_mod": "nfm"
                 },
@@ -193,7 +193,7 @@
                     "name": "120 MHz Air Band",
                     "center_freq": 120000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 120000000,
                     "start_mod": "nfm"
                 },
@@ -201,7 +201,7 @@
                     "name": "122 MHz Air Band",
                     "center_freq": 122000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 122000000,
                     "start_mod": "nfm"
                 },
@@ -209,7 +209,7 @@
                     "name": "124 MHz Air Band",
                     "center_freq": 148000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 148000000,
                     "start_mod": "nfm"
                 },
@@ -217,7 +217,7 @@
                     "name": "126 MHz Air Band",
                     "center_freq": 126000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 126000000,
                     "start_mod": "nfm"
                 },
@@ -225,7 +225,7 @@
                     "name": "126 MHz Air Band",
                     "center_freq": 128000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 128000000,
                     "start_mod": "nfm"
                 },
@@ -233,7 +233,7 @@
                     "name": "130 MHz Air Band",
                     "center_freq": 130000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 130000000,
                     "start_mod": "nfm"
                 },
@@ -241,7 +241,7 @@
                     "name": "132 MHz Air Band",
                     "center_freq": 132000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 132000000,
                     "start_mod": "nfm"
                 },
@@ -249,7 +249,7 @@
                     "name": "134 MHz Air Band",
                     "center_freq": 134000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 134000000,
                     "start_mod": "nfm"
                 },
@@ -257,7 +257,7 @@
                     "name": "136 MHz Air Band",
                     "center_freq": 136000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 136000000,
                     "start_mod": "nfm"
                 },
@@ -265,7 +265,7 @@
                     "name": "138 MHz NOAA Weather Satellite Band",
                     "center_freq": 138000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 138000000,
                     "start_mod": "nfm"
                 },
@@ -273,7 +273,7 @@
                     "name": "140 MHz",
                     "center_freq": 140000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 140000000,
                     "start_mod": "nfm"
                 },
@@ -281,7 +281,7 @@
                     "name": "142 MHz",
                     "center_freq": 142000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 142000000,
                     "start_mod": "nfm"
                 },
@@ -289,7 +289,7 @@
                     "name": "144 MHz Ham Band",
                     "center_freq": 144000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 144000000,
                     "start_mod": "nfm"
                 },
@@ -297,7 +297,7 @@
                     "name": "146 MHz Ham Band",
                     "center_freq": 146000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 146000000,
                     "start_mod": "nfm"
                 },
@@ -305,7 +305,7 @@
                     "name": "148 MHz Ham Band",
                     "center_freq": 148000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 148000000,
                     "start_mod": "nfm"
                 },
@@ -313,7 +313,7 @@
                     "name": "150 MHz",
                     "center_freq": 150000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 150000000,
                     "start_mod": "nfm"
                 },
@@ -321,7 +321,7 @@
                     "name": "152 MHz",
                     "center_freq": 152000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 152000000,
                     "start_mod": "nfm"
                 },
@@ -329,7 +329,7 @@
                     "name": "154 MHz",
                     "center_freq": 154000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 154000000,
                     "start_mod": "nfm"
                 },
@@ -337,7 +337,7 @@
                     "name": "156 MHz",
                     "center_freq": 156000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 156100000,
                     "start_mod": "nfm"
                 },
@@ -345,7 +345,7 @@
                     "name": "158 MHz",
                     "center_freq": 158000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 158000000,
                     "start_mod": "nfm"
                 },
@@ -353,7 +353,7 @@
                     "name": "160 MHz",
                     "center_freq": 160000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 160000000,
                     "start_mod": "nfm"
                 },
@@ -361,7 +361,7 @@
                     "name": "162 MHz Weather Band",
                     "center_freq": 162000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 162000000,
                     "start_mod": "nfm"
                 },
@@ -369,7 +369,7 @@
                     "name": "164 MHz",
                     "center_freq": 164000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 164000000,
                     "start_mod": "nfm"
                 },
@@ -377,7 +377,7 @@
                     "name": "166 MHz",
                     "center_freq": 166000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 166000000,
                     "start_mod": "nfm"
                 },
@@ -385,7 +385,7 @@
                     "name": "168 MHz",
                     "center_freq": 168000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 168000000,
                     "start_mod": "nfm"
                 },
@@ -393,7 +393,7 @@
                     "name": "170 MHz",
                     "center_freq": 170000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 170000000,
                     "start_mod": "nfm"
                 },
@@ -401,7 +401,7 @@
                     "name": "172 MHz",
                     "center_freq": 172000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 172000000,
                     "start_mod": "nfm"
                 },
@@ -409,7 +409,7 @@
                     "name": "174 MHz",
                     "center_freq": 174000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 174000000,
                     "start_mod": "nfm"
                 },
@@ -417,7 +417,7 @@
                     "name": "420 MHz 70cm Ham Band",
                     "center_freq": 420000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 420000000,
                     "start_mod": "nfm"
                 },
@@ -425,7 +425,7 @@
                     "name": "422 MHz 70cm Ham Band",
                     "center_freq": 422000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 422000000,
                     "start_mod": "nfm"
                 },
@@ -433,7 +433,7 @@
                     "name": "424 MHz 70cm Ham Band",
                     "center_freq": 448000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 448000000,
                     "start_mod": "nfm"
                 },
@@ -441,7 +441,7 @@
                     "name": "426 MHz 70cm Ham Band",
                     "center_freq": 426000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 426000000,
                     "start_mod": "nfm"
                 },
@@ -449,7 +449,7 @@
                     "name": "426 MHz 70cm Ham Band",
                     "center_freq": 428000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 428000000,
                     "start_mod": "nfm"
                 },
@@ -457,7 +457,7 @@
                     "name": "430 MHz 70cm Ham Band",
                     "center_freq": 430000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 430000000,
                     "start_mod": "nfm"
                 },
@@ -465,7 +465,7 @@
                     "name": "432 MHz 70cm Ham Band",
                     "center_freq": 432000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 432000000,
                     "start_mod": "nfm"
                 },
@@ -473,7 +473,7 @@
                     "name": "434 MHz 70cm Ham Band",
                     "center_freq": 434000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 434000000,
                     "start_mod": "nfm"
                 },
@@ -481,7 +481,7 @@
                     "name": "436 MHz 70cm Ham Band",
                     "center_freq": 436000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 436000000,
                     "start_mod": "nfm"
                 },
@@ -489,7 +489,7 @@
                     "name": "438 MHz 70cm Ham Band",
                     "center_freq": 438000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 438000000,
                     "start_mod": "nfm"
                 },
@@ -497,7 +497,7 @@
                     "name": "440 MHz 70cm Ham Band",
                     "center_freq": 440000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 440000000,
                     "start_mod": "nfm"
                 },
@@ -505,7 +505,7 @@
                     "name": "442 MHz 70cm Ham Band",
                     "center_freq": 442000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 442000000,
                     "start_mod": "nfm"
                 },
@@ -513,7 +513,7 @@
                     "name": "444 MHz 70cm Ham Band",
                     "center_freq": 444000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 444000000,
                     "start_mod": "nfm"
                 },
@@ -521,7 +521,7 @@
                     "name": "446 MHz 70cm Ham Band",
                     "center_freq": 446000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 446000000,
                     "start_mod": "nfm"
                 },
@@ -529,7 +529,7 @@
                     "name": "448 MHz 70cm Ham Band",
                     "center_freq": 448000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 448000000,
                     "start_mod": "nfm"
                 },
@@ -537,7 +537,7 @@
                     "name": "460 MHz",
                     "center_freq": 460000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 460000000,
                     "start_mod": "nfm"
                 },
@@ -545,7 +545,7 @@
                     "name": "462 MHz FRS/GMRS",
                     "center_freq": 462000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 462000000,
                     "start_mod": "nfm"
                 },
@@ -553,7 +553,7 @@
                     "name": "467 MHz FRS/GMRS",
                     "center_freq": 467000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 467000000,
                     "start_mod": "nfm"
                 },
@@ -561,7 +561,7 @@
                     "name": "860 MHz",
                     "center_freq": 860000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 860000000,
                     "start_mod": "nfm"
                 },
@@ -569,7 +569,7 @@
                     "name": "862 MHz",
                     "center_freq": 862000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 862000000,
                     "start_mod": "nfm"
                 },
@@ -577,7 +577,7 @@
                     "name": "864 MHz",
                     "center_freq": 864000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 864000000,
                     "start_mod": "nfm"
                 },
@@ -585,7 +585,7 @@
                     "name": "866 MHz",
                     "center_freq": 866000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 866000000,
                     "start_mod": "nfm"
                 },
@@ -593,7 +593,7 @@
                     "name": "868 MHz SRD Band",
                     "center_freq": 868000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 868000000,
                     "start_mod": "nfm"
                 },
@@ -601,7 +601,7 @@
                     "name": "870 MHz",
                     "center_freq": 870000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 870000000,
                     "start_mod": "nfm"
                 },
@@ -609,7 +609,7 @@
                     "name": "915 MHz ISM Band",
                     "center_freq": 915000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 915000000,
                     "start_mod": "nfm"
                 },
@@ -617,7 +617,7 @@
                     "name": "1090 MHz",
                     "center_freq": 1090000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1090000000,
                     "start_mod": "nfm"
                 },
@@ -625,7 +625,7 @@
                     "name": "1880 MHz",
                     "center_freq": 1880000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1880000000,
                     "start_mod": "nfm"
                 },
@@ -633,7 +633,7 @@
                     "name": "1882 MHz",
                     "center_freq": 1882000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1882000000,
                     "start_mod": "nfm"
                 },
@@ -641,7 +641,7 @@
                     "name": "1884 MHz",
                     "center_freq": 1884000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1884000000,
                     "start_mod": "nfm"
                 },
@@ -649,7 +649,7 @@
                     "name": "1886 MHz",
                     "center_freq": 1886000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1886000000,
                     "start_mod": "nfm"
                 },
@@ -657,7 +657,7 @@
                     "name": "1888 MHz",
                     "center_freq": 1888000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1888000000,
                     "start_mod": "nfm"
                 },
@@ -665,7 +665,7 @@
                     "name": "1890 MHz",
                     "center_freq": 1890000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1890000000,
                     "start_mod": "nfm"
                 },
@@ -673,7 +673,7 @@
                     "name": "1892 MHz",
                     "center_freq": 1892000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1892000000,
                     "start_mod": "nfm"
                 },
@@ -681,7 +681,7 @@
                     "name": "1894 MHz",
                     "center_freq": 1894000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1894000000,
                     "start_mod": "nfm"
                 },
@@ -689,7 +689,7 @@
                     "name": "1896 MHz",
                     "center_freq": 1896000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1896000000,
                     "start_mod": "nfm"
                 },
@@ -697,7 +697,7 @@
                     "name": "1898 MHz",
                     "center_freq": 1898000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1898000000,
                     "start_mod": "nfm"
                 },
@@ -705,7 +705,7 @@
                     "name": "1900 MHz",
                     "center_freq": 1900000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1900000000,
                     "start_mod": "nfm"
                 },
@@ -713,7 +713,7 @@
                     "name": "23cm Ham Band",
                     "center_freq": 1270000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1270000000,
                     "start_mod": "nfm"
                 },
@@ -721,7 +721,7 @@
                     "name": "13cm Ham Band",
                     "center_freq": 2370000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 2370000000,
                     "start_mod": "nfm"
                 },
@@ -729,7 +729,7 @@
                     "name": "9cm Band",
                     "center_freq": 3440000000,
                     "rf_gain": 30,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 3440000000,
                     "start_mod": "nfm"
                 },
@@ -737,7 +737,7 @@
                     "name": "10m Ham Band HF",
                     "center_freq": 29150000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 28283000,
                     "start_mod": "usb",
                     "direct_sampling": 2
@@ -746,7 +746,7 @@
                     "name": "19m Broadcast Band HF",
                     "center_freq": 16000000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 15400000,
                     "start_mod": "am",
                     "direct_sampling": 2
@@ -755,7 +755,7 @@
                     "name": "20m Ham Band HF",
                     "center_freq": 14150000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 14070000,
                     "start_mod": "usb",
                     "direct_sampling": 2
@@ -764,7 +764,7 @@
                     "name": "30m Ham Band HF",
                     "center_freq": 10125000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 10142000,
                     "start_mod": "usb",
                     "direct_sampling": 2
@@ -773,7 +773,7 @@
                     "name": "40m Ham Band HF",
                     "center_freq": 7100000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 7070000,
                     "start_mod": "lsb",
                     "direct_sampling": 2
@@ -782,7 +782,7 @@
                     "name": "49m Broadcast Band HF",
                     "center_freq": 6000000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 6070000,
                     "start_mod": "am",
                     "direct_sampling": 2
@@ -791,7 +791,7 @@
                     "name": "80m Ham Band HF",
                     "center_freq": 3650000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 3570000,
                     "start_mod": "lsb",
                     "direct_sampling": 2
@@ -800,7 +800,7 @@
                     "name": "160m Band HF",
                     "center_freq": 1700000,
                     "rf_gain": 10,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 1440000,
                     "start_mod": "am",
                     "direct_sampling": 2
@@ -808,35 +808,35 @@
                 "fb7faefa-a329-4125-a98d-04793d77f81d": {
                     "name": "W4DOC DMR 444.825",
                     "center_freq": 444825000,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 444825000,
                     "start_mod": "nfm"
                 },
                 "67ff6365-ffb8-49d1-807e-75f358642a9d": {
                     "name": "W4DOC 2m 146.820",
                     "center_freq": 146820000,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 146820000,
                     "start_mod": "nfm"
                 },
                 "046e7196-13e4-4f19-89c2-09e102be54f5": {
                     "name": "W4DOC DSTAR 145.350",
                     "center_freq": 145350000,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 145350000,
                     "start_mod": "nfm"
                 },
                 "553da8ba-ee59-4196-8ce1-560efc3df824": {
                     "name": "W4DOC DSTAR 440.600",
                     "center_freq": 440600000,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 440600000,
                     "start_mod": "nfm"
                 },
                 "f6225835-a218-4e63-9d71-7ae0b1dace2b": {
                     "name": "NPR 90.1 WABE",
                     "center_freq": 90100000,
-                    "samp_rate": 175000,
+                    "samp_rate": 195000,
                     "start_freq": 90,
                     "start_mod": "nfm"
                 }
